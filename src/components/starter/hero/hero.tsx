@@ -3,7 +3,7 @@ import styles from './hero.module.css'
 
 export default component$(() => {
   return (
-    <div class={['container', styles.hero]}>
+    <div class={['container-hero', styles.hero]}>
       <h1>
         Some <span class="highlight">fantastic</span>
         <br />
