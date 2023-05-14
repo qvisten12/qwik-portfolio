@@ -6,8 +6,7 @@ export default component$(() => {
     <div class="container container-purple container-center">
       <h2>
         See whats possible with
-        <br />
-        <span class="highlight">qwik</span>
+        <span class="highlight"> qwik</span>
       </h2>
       <div class={styles.gettingstarted}>
         <div class={styles.intro}>
