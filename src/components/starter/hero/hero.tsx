@@ -7,7 +7,7 @@ export default component$(() => {
       <h1>
         Some <span class="highlight">fantastic</span>
         <br />
-        things are in the <span class="highlight">Works</span> here
+        things are in the <span class="highlight">works</span>
       </h1>
       <p>Check back later for my newely designed portfolio, built with qwik!</p>
       <div class={styles['button-group']}>
